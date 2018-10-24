@@ -3,8 +3,11 @@
 
 ### getting started
 `git clone`
+
 `rm -rf .git`
+
 `git init`
+
 `npm i`
 
 ### development
