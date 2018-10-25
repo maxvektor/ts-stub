@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`adds text to h2 tag 1`] = `"<div><h2>Hello from typescript</h2></div>"`;
